@@ -27,7 +27,7 @@ echo <<<EOT
     	<div>
     		<h1>Lista de Contatos</h1>
             <a href="index.php"><i class="fas fa-home"></i>Home</a>
-    		<a href="read.php"><i class="fas fa-address-book"></i>Contacts</a>
+    		<a href="read.php"><i class="fas fa-address-book"></i>Contatos</a>
     	</div>
     </nav>
 EOT;
